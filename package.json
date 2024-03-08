@@ -1,0 +1,23 @@
+{
+  "name": "vladg0607",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "githttps://github.com/vladg228/vladg0607.git"
+  },
+  "dependencies": {
+    "kolyal1912l": "1.0.0",
+    "vladuk": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladg228/vladg0607/issues"
+  },
+  "homepage": "https://github.com/vladg228/vladg0607#readme"
+}
